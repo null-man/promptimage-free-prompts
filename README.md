@@ -24,12 +24,65 @@ These are a small public starter set. For a larger searchable library, reusable 
 
 Each case pairs a public Prompt Image result with a copy-ready, reproducible prompt. They are deliberately small samples; the complete collection remains on [Prompt Image](https://promptimage.cloud/free-ai-image-prompt-library).
 
-- [Premium product photography prompt](showcases/premium-product-photography.md)
-- [White background product prompt](showcases/white-background-product.md)
-- [Fashion model prompt](showcases/fashion-model.md)
-- [Cinematic fragrance prompt](showcases/cinematic-fragrance.md)
-- [Floral warrior illustration prompt](showcases/floral-warrior.md)
-- [Editorial fashion portrait prompt](showcases/editorial-fashion-portrait.md)
+### Premium product photography prompt
+
+![Premium product photography example](https://promptimage.cloud/generated/landing/product-hero-after-v1.webp)
+
+```text
+premium [product] hero shot on a minimalist reflective surface, soft studio lighting, realistic contact shadow, refined material texture, calm neutral background, clean ecommerce composition, advertising-ready, sharp product detail, generous negative space for brand copy
+```
+
+[Generate this product image in Prompt Image →](https://promptimage.cloud/image)
+
+### White background product prompt
+
+![White background product example](https://promptimage.cloud/generated/landing/white-background-after-v1.webp)
+
+```text
+studio photograph of [product] on a pure white seamless background, front three-quarter view, soft even lighting, accurate product color, natural contact shadow, no props, no text, crisp edges, realistic material detail, high-resolution ecommerce catalog image
+```
+
+[Create a white-background product image →](https://promptimage.cloud/image)
+
+### Fashion model prompt
+
+![Fashion model example](https://promptimage.cloud/generated/landing/fashion-model-after-v1.webp)
+
+```text
+editorial fashion photograph of a model wearing [garment], relaxed confident pose, clean contemporary setting, soft directional daylight, natural fabric drape, realistic skin texture, modern campaign styling, subtle depth of field, vertical 4:5 composition, refined neutral palette
+```
+
+[Generate a fashion visual in Prompt Image →](https://promptimage.cloud/image)
+
+### Cinematic fragrance prompt
+
+![Cinematic fragrance example](https://promptimage.cloud/generated/landing/hero-curated-01-poster-v1.webp)
+
+```text
+sculptural fragrance bottle on black stone, warm rim light, quiet luxury campaign, crisp glass detail, subtle condensation, deep charcoal background, restrained highlights, premium beauty advertising photography, cinematic composition, high-resolution product finish
+```
+
+[Make a fragrance campaign image →](https://promptimage.cloud/image)
+
+### Floral warrior illustration prompt
+
+![Floral warrior example](https://promptimage.cloud/generated/landing/hero-floral-warrior.webp)
+
+```text
+heroic warrior moving through a field of oversized wildflowers, flowing layered fabric, wind-driven petals, expressive silhouette, painterly fantasy illustration, rich botanical detail, luminous dusk light, deep teal and coral palette, cinematic depth, intricate brush texture
+```
+
+[Create a character illustration →](https://promptimage.cloud/image)
+
+### Editorial fashion portrait prompt
+
+![Editorial fashion portrait example](https://promptimage.cloud/generated/landing/hero-fashion-poster-v1.webp)
+
+```text
+editorial portrait of [person] in [outfit], soft grain, sculptural shadows, calm neutral palette, natural expression, gentle side light, medium-format photography, precise styling, shallow depth of field, understated contemporary fashion magazine aesthetic
+```
+
+[Generate an editorial portrait →](https://promptimage.cloud/image)
 
 ## How to use a prompt
 
