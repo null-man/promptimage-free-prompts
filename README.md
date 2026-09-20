@@ -20,6 +20,17 @@ These are a small public starter set. For a larger searchable library, reusable 
 | [Food and lifestyle](prompts/food-and-lifestyle.md) | Menu concepts, recipe stories, and lifestyle content |
 | [Illustration and places](prompts/illustration-and-places.md) | Posters, environments, architecture, and visual exploration |
 
+## Featured visual cases
+
+Each case pairs a public Prompt Image result with a copy-ready, reproducible prompt. They are deliberately small samples; the complete collection remains on [Prompt Image](https://promptimage.cloud/free-ai-image-prompt-library).
+
+- [Premium product photography prompt](showcases/premium-product-photography.md)
+- [White background product prompt](showcases/white-background-product.md)
+- [Fashion model prompt](showcases/fashion-model.md)
+- [Cinematic fragrance prompt](showcases/cinematic-fragrance.md)
+- [Floral warrior illustration prompt](showcases/floral-warrior.md)
+- [Editorial fashion portrait prompt](showcases/editorial-fashion-portrait.md)
+
 ## How to use a prompt
 
 1. Copy a prompt from a collection.
